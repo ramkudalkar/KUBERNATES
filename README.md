@@ -82,3 +82,12 @@ Think of this as the "front door" for external access to your applications, cont
 And there you have it! That's a simplified breakdown of Kubernetes architecture components.
 
 ```
+
+
+![Screenshot 2025-01-14 at 1 13 29 PM](https://github.com/user-attachments/assets/f3ab0670-46ea-4097-8ac8-af5a05616d29)
+
+
+
+
+
+
